@@ -1,0 +1,17 @@
+git config --global user.name "username"     // Configuration
+git config --global user.email "Email"       // Configuration
+git init                                       // initialize
+local repository-> stage area   
+git  add .                                    // add all files
+$ git add *.html                             // Add all html files.
+git status                                    // check status
+git commit -m "my first commmit"              // Commit message
+
+git commit                                   // commit
+git remote add origin "Your Link"             //Git link
+git push -u origin master                    // import files from local to remote repository
+git push origin master
+
+ 
+
+Git download link : https://git-scm.com/downloads
